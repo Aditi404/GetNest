@@ -58,7 +58,7 @@
 .navbar ul li:hover::after{
     width: 100%;
 }
-h1, h3, p{
+h1, h2, h3, p{
     color:#edf3f2;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -112,4 +112,7 @@ button:hover span{
 }
 button:hover{
     border: none;
+}
+a{
+    color: #009688;
 }
